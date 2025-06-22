@@ -19,9 +19,7 @@
   <a href="https://www.linkedin.com/in/nithin-mouli-93a862254/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://www.codechef.com/users/tobi_18" target="_blank" style="margin-left: 10px;">
-    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40" />
-  </a>
+
   <a href="https://leetcode.com/u/nm_0305/" target="_blank" style="margin-left: 10px;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
   </a>
