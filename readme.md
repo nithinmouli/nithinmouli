@@ -16,7 +16,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nithin-mouli-93a862254/" target="_blank">
+  <a href="https://www.linkedin.com/in/nithinmouli/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
 
